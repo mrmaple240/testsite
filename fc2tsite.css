@@ -1,1 +1,4 @@
 /*test*/
+#container{background:#212121;color:#fbfbfb}
+div,button,h2{display:block}
+span{display:inline}
